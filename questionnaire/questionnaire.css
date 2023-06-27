@@ -1,0 +1,34 @@
+
+.result{
+    margin:20px 4em auto;
+      padding:0.9em;
+      border-radius:0.5em;
+      text-align: center;
+      font-weight: bold;
+      font-size: 25px;
+      background-color: lightsalmon;
+  }
+
+  .coment{
+    margin:20px 4em auto;
+      padding:10px 20px;
+      text-align: center;
+      font-weight: bold;
+      font-size: 25px;
+      border: #000000 solid 1px;
+    }
+
+  .step2 {
+    height: 200px;
+  }
+
+  .graph{
+    margin: 0% 10%;
+    display: flex;
+    justify-content: space-between;
+  }
+  .graph p{font-weight: bold;}
+
+  .btn--1 {
+    margin-left: 300px;
+  }

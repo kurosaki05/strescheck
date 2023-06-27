@@ -1,0 +1,1353 @@
+ <!--Q5-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              高度の知識や技術が必要な<br>
+              むずかしい仕事だ
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+
+        <!--Q6-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              勤務時間中はいつも仕事のことを<br>
+              考えていなければならない
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q7-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              からだを大変よく使う仕事だ
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q8-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              自分のぺースで仕事ができる
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q9-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              自分で仕事の順番・やり方を<br>
+              決めることができる
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <!--Q10-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              職場の仕事の方針に<br>
+              自分の意見を反映できる
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q11-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              自分の技能や知識を<br>
+              仕事で使うことが少ない
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q12-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              私の部署内で<br>
+              意見のくい違いがある
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q13-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              私の部署と他の部署とは<br>
+              うまが合わない
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q14-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              私の職場の雰囲気は<br>
+              友好的である
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q15-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              私の職場の作業環境<br>
+              （騒音、照明、温度、換気など）はよくない
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q16-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              仕事の内容は<br>
+              自分にあっている
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q17-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              働きがいのある仕事だ
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+
+        <!--貼り付け位置￥￥￥￥￥￥￥￥￥￥￥￥↓↓-->
+        <!--2番　〇〇について-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box4">
+            <div class=step1>
+              <h1>
+                5分でできる職場のストレスセルフチェック
+              </h1>
+              <p class="about">
+                STEP2最近1ヵ月の状態について
+              </p>
+              <p>
+                最近あなたの状態についてうかがいます。</br>
+                4つの中から最もあてはまるものを選んでください。(全29問)
+              </p>
+
+              <div class="btn-box">
+                <ul class="m-sliderNav">
+                  <li class="m-sliderNav__item">
+                    <button class="m-button --next">次へ</button>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </li>
+
+
+        <!--Q1-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              活気がわいてくる
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points^\-="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q2-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              元気がいっぱいだ
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q3-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              生き生きする
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q4-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              怒りを感じる
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q5-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              内心腹立たしい
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q6-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              イライラしている
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q7-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              ひどく疲れた
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q8-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              へとへとだ
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q9-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              だるい
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q10-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              気がはりつめている
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q11-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              不安だ
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <!--Q12-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              落着かない
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <!--Q13-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              ゆううつだ
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <!--Q14-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              何をするのも面倒だ
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <!--Q15-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              物事に集中できない
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <!--Q16-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              気分が晴れない
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <!--Q17-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              仕事が手につかない
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <!--Q18-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              悲しいと感じる
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <!--Q19-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              めまいがする
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <!--Q20-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              体のふしぶしが痛む
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <!--Q21-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              頭が重かったり頭痛がする
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <!--Q22-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              首筋や肩がこる
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <!--Q23-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              腰が痛い
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <!--Q24-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              目が疲れる
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <!--Q25-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              動悸や息切れがする
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <!--Q26-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              胃腸の具合が悪い
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <!--Q27-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              食欲がない
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <!--Q28-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              便秘や下痢をする
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <!--Q29-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              よく眠れない
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer2" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--3番　〇〇について-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box4">
+            <div class=step1>
+              <h1>
+                5分でできる職場のストレスセルフチェック
+              </h1>
+              <p class="about">
+                STEP3周りの方々について
+              </p>
+              <p>
+                あなたの周りのついてうかがいます。</br>
+                4つの中から最もあてはまるものを選んでください。(全9問)
+              </p>
+
+              <div class="btn-box">
+                <ul class="m-sliderNav">
+                  <li class="m-sliderNav__item">
+                    <button class="m-button --next">次へ</button>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </li>
+
+        <!--Q1-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              次の人たちとはどのくらい気軽に話ができますか？<br>上司
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q2-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              次の人たちとはどのくらい気軽に話ができますか？<br>職場の同僚
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <!--Q3-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              次の人たちとはどのくらい気軽に話ができますか？<br>配偶者、家族、友人等
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q4-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              あなたが困った時、次の人たちは<br>
+              どのくらい頼りになりますか?<br>
+              上司
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q5-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              あなたが困った時、次の人たちは<br>
+              どのくらい頼りになりますか?<br>
+              職場の同僚
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q6-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              あなたが困った時、次の人たちは<br>
+              どのくらい頼りになりますか?<br>
+              配偶者、家族、友人等
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q7-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              あなたの個人的な問題を相談したら、<br>
+              次の人たちはどのくらい聞いてくれますか?<br>上司
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q8-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              あなたの個人的な問題を相談したら、<br>
+              次の人たちはどのくらい聞いてくれますか?<br>職場の同僚
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q9-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              あなたの個人的な問題を相談したら、<br>
+              次の人たちはどのくらい聞いてくれますか?<br>配偶者、家族、友人等
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer3" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+
+        <!--4番　〇〇について-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box4">
+            <div class=step1>
+              <h1>
+                5分でできる職場のストレスセルフチェック
+              </h1>
+              <p class="about">
+                STEP4 満足度について
+              </p>
+              <p>
+                あなたの満足度ついてうかがいます。</br>
+                4つの中から最もあてはまるものを選んでください。(全2問)
+              </p>
+
+              <div class="btn-box">
+                <ul class="m-sliderNav">
+                  <li class="m-sliderNav__item">
+                    <button class="m-button --next">次へ</button>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </li>
+
+        <!--Q-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              仕事に満足だ
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer4" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer4" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer4" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer4" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              家庭生活に満足だ
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer4" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer4" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer4" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer4" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>

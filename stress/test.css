@@ -1,0 +1,202 @@
+/* Reset.css */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+.m-slider__item div {
+  width: 1000px;
+  height: 500px;
+}
+
+.box1 {
+  background-color: aqua;
+  position: relative;/*相対配置*/
+  /*親div*/
+  position: relative;/*相対配置*/
+}
+
+.box1 p {
+  position: absolute;/*絶対配置*/
+  margin-left: 26%;
+    margin-top: 15%;
+  font-size: 200%;
+  font-weight: bold;
+  /* width: 940px;
+  height: 280px;
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 293%;
+  */
+  }
+
+.box2 {
+  background-color: rgb(80, 211, 124);
+}
+
+.box3 {
+  background-color: rgba(71, 100, 47, 0.829);
+}
+
+.box4 {
+  background-color: rgb(198, 230, 85);
+}
+
+.box5 {
+  background-color: rgb(226, 130, 51);
+}
+
+/* Layout */
+.l-container {
+  width: 1000px;
+  margin: 3em auto;
+}
+
+/* Module */
+.m-pageTitle {
+  padding-bottom: 1em;
+  text-align: center;
+}
+.m-sliderWrap {
+  overflow: hidden;
+  /* 親要素である.l-containerの幅が800pxのため、
+  .m-sliderWrapにwidthを指定する必要なし */
+}
+
+.m-slider {
+  position: relative;
+  display: flex;
+  /* スライドする画像の合計幅を指定 */
+  width: 3000px;
+}
+
+.m-slider__item {
+  width: 1000px;
+}
+
+.m-sliderNav {
+  display: flex;
+  justify-content: center;
+  padding-top: 3em;
+}
+
+.m-sliderNav__item + .m-sliderNav__item {
+  margin-left: 1em;
+}
+
+/*ボタン*/
+.m-button {
+  padding: 1em;
+  width: 150px;
+}
+a{
+  color: #000000;
+  display: inline-block;
+  width: 200px;
+  max-width: 100%;
+  padding: 20px 10px;
+  /* 上下の20pxで高さの確保とテキストの上下中央よせを行う。左右10pxはテキストが横いっぱいに埋まるのを防ぐため */
+  border-radius: 0.5rem;
+  text-align: center;
+}
+a:hover {
+  opacity: 0.6;
+}
+
+.box1>.m-sliderNav
+{padding-top: 400px;}
+
+#man {
+  background-color: aquamarine;
+}
+
+#woman {
+  background-color: darksalmon;
+}
+
+
+.abtn {
+  width: 200px;
+  height: 50px;
+  background-color: blanchedalmond;
+
+}
+
+.step1 {
+  text-align: left;
+  margin: 10% 15% 0% 15%;
+  font-weight: bolder;
+  display: inline-block;
+}
+
+/*2番　〇〇について  */
+.step1 h1{
+  font-size: 25px;
+}
+
+/*質問*/
+
+.about{
+  font-weight: bolder;
+  font-size: 40px;
+  display: inline-block;
+  background: linear-gradient(#000000);
+  background: -webkit-linear-gradient(-45deg, #000000 0%, #000000 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.finish{
+  font-weight: bolder;
+  font-size: 40px;
+  display: inline-block;
+  background: linear-gradient(135deg, #fed878 0%, #5665eb 100%);
+  background: -webkit-linear-gradient(-45deg, #fed878 0%, #5665eb 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/*5番　グラフ*/
+
+.result{
+  margin:20px 4em auto;
+    padding:0.9em;
+    border-radius:0.5em;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: lightsalmon;
+}
+
+.coment{
+  margin:20px 4em auto;
+    padding:10px 20px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    border: #000000 solid 1px;
+  }
+
+.step2 {
+  height: 200px;
+}
+
+.graph{
+  margin: 0% 10%;
+  display: flex;
+  justify-content: space-between;
+}
+.graph p{font-weight: bold;}
+
+.btn--1 {
+  margin-left: 300px;
+}
+
+

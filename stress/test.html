@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>test</title>
+  <link rel="stylesheet" href="test.css" />
+</head>
+
+<body>
+  <div class="l-container">
+    <!-- <h1 class="m-pageTitle">test</h1> -->
+    <div class="m-sliderWrap">
+      <ul class="m-slider" id="js-slider">
+
+        <!--1番　性別選択-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box01">
+            <div class=step1>
+              <h1>5分でできる職場の<br>ストレスセルフチェック</h1>
+              <p>
+                4つのSTEPによる簡単な質問から、<br>
+                あなたの職場におけるストレスレベルを測定します。<br>
+                質問は全部で57もんです。（所要時間約5分間）<br>
+                はじめに性別を選んでください。
+              </p>
+              <!-- <div class="btn-box"> -->
+              <a id="man" class="1btn">男性</a>
+
+              <a id="woman" class="1btn">女性</a>
+              <!--</div>-->
+              <ul class="m-sliderNav">
+              </ul>
+            </div>
+          </div>
+        </li>
+
+        <!--2番　〇〇について-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box4">
+            <div class=step1>
+              <h1>
+                5分でできる職場のストレスセルフチェック
+              </h1>
+              <p class="about">
+                STEP1仕事について
+              </p>
+              <p>
+                あなたの仕事についてうかがいます。</br>
+                4つの中から最もあてはまるものを選んでください。(全問)
+              </p>
+
+              <div class="btn-box">
+                <ul class="m-sliderNav">
+                  <li class="m-sliderNav__item">
+                    <button class="m-button --next">次へ</button>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </li>
+
+        <!--質問-->
+
+        <!--Q1-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              非常にたくさんの仕事を<br>
+              しなければならない
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q2-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              時間内に仕事が<br>
+              処理しきれない
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+        <!--Q3-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              一生懸命<br>
+              働かなければならない
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+
+
+        <!--Q4-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box1">
+            <p>
+              かなり注意を集中する必要がある
+            </p>
+
+            <ul class="m-sliderNav">
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="1">そうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="2">まあそうだ</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="3">ややちがう</button>
+              </li>
+              <li class="m-sliderNav__item">
+                <button class="m-button --answer1" data-points="4">ちがう</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+       
+
+
+        <!--4番　お疲れ様でした-->
+        <li class="js-sliderItem m-slider__item">
+          <div class="box3">
+            <div class=step1>
+              <p class="finish">
+                これで質問は、終わりです。<br>
+                お疲れ様でした。<br>
+                診断結果にお進みください。
+              </p>
+              <div class="btn-box">
+                <a href="" class="btn--1">結果を見る</a>
+                <ul class="m-sliderNav">
+                  <li class="m-sliderNav__item">
+                    <button class="m-button --btn2" id="submit-button">結果を見る</button>
+
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </li>
+
+
+
+        <li class="js-sliderItem m-slider__item">
+
+          <header class="result">
+            ストレスチェック結果表示欄
+          </header>
+
+          <div class="step2">
+            <p class="coment" id="status">
+              <!--コメント表示欄-->
+            </p>
+
+            <ul class="graph">
+              <li class="cause">
+                ストレス原因因子
+                <!--グラフ-->
+                <canvas id="radarChart1"></canvas>
+
+
+
+                <p>あなたの現在のストレス反応</p>
+                コメント表示欄
+
+                <p>ストレスの原因となりうる因子</p>
+                コメント欄
+              </li>
+
+              <li class="reaction">
+                <p>
+                  ストレスによる心身反応
+                </p>
+                <!--グラフ２-->
+                <canvas id="radarChart2"></canvas>
+
+              </li>
+
+              <li class="influence">
+                <p>
+                  ストレスへの影響因子
+                </p>
+                <!--グラフ３-->
+                <canvas id="radarChart3"></canvas>
+
+                <p>コメント</p>
+                コメント欄
+              </li>
+            </ul>
+
+            <a href="" class="btn--1">①結果を印刷</a>
+            <a href="" class="btn--2">②結果をPDFで保存</a>
+          </div>
+
+      </ul><!--↑スライド中↑-->
+    </div>
+
+
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"
+      integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="test.js"></script>
+</body>
+
+</html>

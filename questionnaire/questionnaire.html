@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Radar Chart</title>
+	<meta charset="utf-8">
+
+	<style>
+		canvas {
+			max-width: 400px;
+			max-height: 400px;
+		}
+	</style>
+</head>
+<body>
+
+<!--グラフ-->
+
+<h1>Radar Chart</h1>
+	<button onclick="count(1)">Button 1</button>
+	<button onclick="count(2)">Button 2</button>
+	<button onclick="count(3)">Button 3</button>
+	<button onclick="count(4)">Button 4</button>
+	<button onclick="count(5)">Button 5</button>
+<button id="button">ボタン</button>
+
+<canvas id="radarChart2"></canvas>
+	<canvas id="graphCanvas" width="400" height="300"></canvas>
+
+	<button onclick="name1(1)"> 1</button>
+	<button onclick="name1(2)"> 2</button>
+	<button onclick="name1(3)"> 3</button>
+	<button onclick="name1(4)"> 4</button>
+	<button onclick="name1(5)"> 5</button>
+
+	
+	<canvas id="radarChart1"></canvas>
+
+
+	<script src="https://code.jquery.com/jquery-1.12.4.min.js"
+	integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+	<script src="questionnaire.js"></script>
+</body>
+</html>

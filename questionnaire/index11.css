@@ -1,0 +1,16 @@
+.question {
+	margin-bottom: 20px;
+}
+
+label {
+	margin-right: 10px;
+}
+
+.submit {
+	margin-top: 20px;
+}
+
+.result {
+	margin-top: 20px;
+	display: none;
+}
