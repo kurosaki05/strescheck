@@ -69,7 +69,7 @@ var counts = [0, 0, 0, 0, 0];
 function count(buttonIndex) {
   
   // ボタンのインデックスに対応するカウントを1つ増やす
-  // counts[buttonIndex - 1]++;
+   counts[buttonIndex - 1]++;
 
   //pointを付ける
   switch (buttonIndex) {
@@ -205,19 +205,19 @@ function name1(buttonIndex) {
   //pointを付ける
   switch (buttonIndex) {
     case 1://ボタン1→5ポイント
-      name1[0] += 5;
+    names[0] += 5;
       break;
     case 2://ボタン2→4ポイント
-      name1[1] += 4;
+    names[1] += 4;
       break;
     case 3://ボタン3→3ポイント
-    name1[2] += 3;
+    names[2] += 3;
       break;
     case 4://ボタン4→2ポイント
-    name1[3] += 2;
+    names[3] += 2;
       break;
     case 5://ボタン5→ 1ポイント
-    name1[4] += 1;
+    names[4] += 1;
       break;
     default:
       break;
