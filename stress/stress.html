@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ストレスチェック</title>
+
+    <style>
+        body {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 30px;
+            height: 100vh;
+            background: linear-gradient(lightgreen 0%, cyan 100%);
+        }
+
+        .swiper {
+            width: 800px;
+            max-width: 100%;
+            height: 500px;
+        }
+    </style>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+
+    <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+</head>
+
+<body>
+
+
+
+    <!-- Slider main container -->
+    <div class="swiper">
+        <!-- Additional required wrapper -->
+        <div class="swiper-wrapper">
+            <!-- Slides -->
+            <div class="swiper-slide">Slide 1
+
+
+                <!--ーーーーーーーー【1.　最初の画面】ーーーーーーーーー-->
+                <h1>5分でできる職場の<br>
+                    ストレスセルフチェック
+                </h1>
+                <p></p>
+                <!-- 性別のボタンを配置 -->
+                <a id="man" class="1btn">男性</a>
+
+                <a id="woman" class="1btn">女性</a>
+
+            </div>
+
+
+
+            <div class="swiper-slide">Slide 2
+
+                <!-------------【2.　○○について】 ----------->
+                <h2>
+                    5分でできる職場のストレスセルフチェック
+                </h2>
+                <!-- ★文を挿入★ -->
+                <p class="about">
+                    STEP〇 ○○について
+                </p>
+                <p>
+                    あなたの仕事についてうかがいます。</br>
+                    4つの中から最もあてはまるものを選んでください。(全〇問)
+                </p>
+
+                <button class="m-button --next">次へ</button>
+
+
+            </div>
+
+
+            <div class="swiper-slide">Slide 3
+
+                <!---------------【3.　質問画面×57項目】-------------------->
+                <div class="question">
+                    <!-- ★問題文★ -->
+                    <p>
+                        <br>
+
+                    </p>
+
+                    <!-- 選択ボタン -->
+                    <ul class="m-sliderNav">
+                        <li class="m-sliderNav__item">
+                            <button class="m-button --answer1" onclick="count1(1)">そうだ</button>
+                        </li>
+                        <li class="m-sliderNav__item">
+                            <button class="m-button --answer1" onclick="count1(2)">まあそうだ</button>
+                        </li>
+                        <li class="m-sliderNav__item">
+                            <button class="m-button --answer1" data-points="3">ややちがう</button>
+                        </li>
+                        <li class="m-sliderNav__item">
+                            <button class="m-button --answer1" data-points="4">ちがう</button>
+                        </li>
+                    </ul>
+
+                </div>
+
+            </div>
+
+            <div class="swiper-slide">Slide 4
+
+                <!-------------------【4.　お疲れ様です画面】------------------->
+
+                <p class="finish">
+                    これで質問は、終わりです。<br>
+                    お疲れ様でした。<br>
+                    診断結果にお進みください。
+                </p>
+
+                <a href="" class="btn--1">結果を見る</a>
+                <ul class="m-sliderNav">
+                    <li class="m-sliderNav__item">
+                        <button class="m-button --btn2" id="submit-button">結果を見る</button>
+
+                    </li>
+
+
+            </div>
+
+            <div class="swiper-slide">Slide 5
+
+                <!-------------------【5.　結果表示画面】------------------------>
+                <header class="result">
+                    ストレスチェック結果表示欄
+                </header>
+
+
+                <p class="coment" id="status">
+                    <!--コメント表示欄-->
+                </p>
+
+                <ul class="graph">
+                    <li class="cause">
+                        ストレス原因因子
+                        <!--グラフ-->
+                        <canvas id="radarChart1"></canvas>
+
+
+
+                        <p>あなたの現在のストレス反応</p>
+                        コメント表示欄
+
+                        <p>ストレスの原因となりうる因子</p>
+                        コメント欄
+                    </li>
+
+                    <li class="reaction">
+                        <p>
+                            ストレスによる心身反応
+                        </p>
+                        <!--グラフ２-->
+                        <canvas id="radarChart2"></canvas>
+
+                    </li>
+
+                    <li class="influence">
+                        <p>
+                            ストレスへの影響因子
+                        </p>
+                        <!--グラフ３-->
+                        <canvas id="radarChart3"></canvas>
+
+                        <p>コメント</p>
+                        コメント欄
+                    </li>
+                </ul>
+
+                <a href="" class="btn--1">①結果を印刷</a>
+                <a href="" class="btn--2">②結果をPDFで保存</a>
+
+            </div>
+            ...
+            <!-- If we need pagination -->
+            <div class="swiper-pagination"></div>
+
+            <!-- If we need navigation buttons -->
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+
+            <!-- If we need scrollbar -->
+            <div class="swiper-scrollbar"></div>
+        </div>
+    </div>
+    <script src="stress.js"></script>
+
+</body>
+
+</html>
